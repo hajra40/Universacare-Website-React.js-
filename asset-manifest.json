@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Universacare-Website-React.js-/static/css/main.5de9819e.chunk.css",
+    "main.js": "/Universacare-Website-React.js-/static/js/main.54ab6d74.chunk.js",
+    "main.js.map": "/Universacare-Website-React.js-/static/js/main.54ab6d74.chunk.js.map",
+    "runtime-main.js": "/Universacare-Website-React.js-/static/js/runtime-main.529bf291.js",
+    "runtime-main.js.map": "/Universacare-Website-React.js-/static/js/runtime-main.529bf291.js.map",
+    "static/css/2.dc319015.chunk.css": "/Universacare-Website-React.js-/static/css/2.dc319015.chunk.css",
+    "static/js/2.b3d83123.chunk.js": "/Universacare-Website-React.js-/static/js/2.b3d83123.chunk.js",
+    "static/js/2.b3d83123.chunk.js.map": "/Universacare-Website-React.js-/static/js/2.b3d83123.chunk.js.map",
+    "static/js/3.176da477.chunk.js": "/Universacare-Website-React.js-/static/js/3.176da477.chunk.js",
+    "static/js/3.176da477.chunk.js.map": "/Universacare-Website-React.js-/static/js/3.176da477.chunk.js.map",
+    "index.html": "/Universacare-Website-React.js-/index.html",
+    "static/css/2.dc319015.chunk.css.map": "/Universacare-Website-React.js-/static/css/2.dc319015.chunk.css.map",
+    "static/css/main.5de9819e.chunk.css.map": "/Universacare-Website-React.js-/static/css/main.5de9819e.chunk.css.map",
+    "static/js/2.b3d83123.chunk.js.LICENSE.txt": "/Universacare-Website-React.js-/static/js/2.b3d83123.chunk.js.LICENSE.txt",
+    "static/media/CHAP.409eebf0.png": "/Universacare-Website-React.js-/static/media/CHAP.409eebf0.png",
+    "static/media/UCLogo.534d6e9d.svg": "/Universacare-Website-React.js-/static/media/UCLogo.534d6e9d.svg",
+    "static/media/circle-infor.a6530cb9.svg": "/Universacare-Website-React.js-/static/media/circle-infor.a6530cb9.svg",
+    "static/media/feature-phone.5ee6dee2.svg": "/Universacare-Website-React.js-/static/media/feature-phone.5ee6dee2.svg",
+    "static/media/feature1.ecd06951.svg": "/Universacare-Website-React.js-/static/media/feature1.ecd06951.svg",
+    "static/media/feature2.03e8a3d4.svg": "/Universacare-Website-React.js-/static/media/feature2.03e8a3d4.svg",
+    "static/media/feature3.7d5c708d.svg": "/Universacare-Website-React.js-/static/media/feature3.7d5c708d.svg",
+    "static/media/feature4.f36f5aca.svg": "/Universacare-Website-React.js-/static/media/feature4.f36f5aca.svg",
+    "static/media/feature5.62a6089c.svg": "/Universacare-Website-React.js-/static/media/feature5.62a6089c.svg",
+    "static/media/feature6.324217dd.svg": "/Universacare-Website-React.js-/static/media/feature6.324217dd.svg",
+    "static/media/healthcare.0a1fa418.svg": "/Universacare-Website-React.js-/static/media/healthcare.0a1fa418.svg",
+    "static/media/home-hero.05a1a7e3.png": "/Universacare-Website-React.js-/static/media/home-hero.05a1a7e3.png",
+    "static/media/p1.d1d47360.jpeg": "/Universacare-Website-React.js-/static/media/p1.d1d47360.jpeg",
+    "static/media/p2.d252b48a.jpeg": "/Universacare-Website-React.js-/static/media/p2.d252b48a.jpeg",
+    "static/media/p3.4ac1c471.jpeg": "/Universacare-Website-React.js-/static/media/p3.4ac1c471.jpeg",
+    "static/media/p4.9a18155c.jpeg": "/Universacare-Website-React.js-/static/media/p4.9a18155c.jpeg",
+    "static/media/p5.dbd9a12b.jpeg": "/Universacare-Website-React.js-/static/media/p5.dbd9a12b.jpeg",
+    "static/media/p6.6ef20793.jpeg": "/Universacare-Website-React.js-/static/media/p6.6ef20793.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.529bf291.js",
+    "static/css/2.dc319015.chunk.css",
+    "static/js/2.b3d83123.chunk.js",
+    "static/css/main.5de9819e.chunk.css",
+    "static/js/main.54ab6d74.chunk.js"
+  ]
+}
