@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+.notificationbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 4px 4px #EBEBEB;
+}
+
+.notificationbar > h1 {
+    padding-top: 20px;
+    padding-bottom: 23px;
+    margin: 0;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #0047AB;
+}
+
+.notificationbar > .icon {
+    padding-top: 18px;
+    padding-bottom: 21px;
+    padding-right: 9px;
+}
