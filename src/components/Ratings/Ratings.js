@@ -86,6 +86,13 @@ const Ratings = () => {
             <div className="sm__inner__container">
                 <div className="overall__rating">
                     <h1>5.0</h1>
+                        <div className="stars">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                        </div>
                     <p>2,054 verified customers reviews by Google.</p> 
                 </div>
                 <Splide   options={ {
