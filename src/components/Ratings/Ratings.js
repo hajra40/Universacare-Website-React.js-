@@ -103,7 +103,7 @@ const Ratings = () => {
                                 <div className='rate__box'>
                                     <h1>{rate.name}</h1>
                                         <div className="stars">
-                                            <i class="fab fa-star"></i>
+                                            <i class="fas fa-star"></i>
                                             <i class="fas fa-star"></i>
                                             <i class="fas fa-star"></i>
                                             <i class="fas fa-star"></i>
