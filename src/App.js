@@ -6,8 +6,11 @@ import Home from './components/Home/Home';
 import Location from './components/Location/Location';
 import Services from './components/Services/Services';
 import Credits from './components/credits/Credits';
-import Images from './components/appointment/Images';
 import Request from './components/appointment/Request';
+import Ratings from './components/Ratings/Ratings';
+import Working from './components/Working/Working';
+import Footer from './components/footer/footer';
+import Copy from './components/copyryts/Copy';
 
 
 function App() {
@@ -18,9 +21,12 @@ function App() {
       <Home />
       <Location />
       <Services />
+      <Working />
       <Credits />
-      <Images />
       <Request />
+      <Ratings />
+      <Footer />
+      <Copy />
     </div>
   );
 }

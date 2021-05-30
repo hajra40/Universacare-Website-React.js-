@@ -12,6 +12,10 @@ const Request = () => {
             <div className="request__img">
                 <img src={save} />
             </div>
+
+            <div className="arrow">
+                 <i class="fas fa-chevron-up"></i>    
+            </div>
         </div>
     )
 }

@@ -13,9 +13,9 @@ const Images = () => {
             <img src={p1} />
             <img src={p2} />
             <img src={p3} />
-            <img src={p4} />
-            <img src={p5} />
-            <img src={p6} />
+            <img src={p4} className="hide"/>
+            <img src={p5} className="hide"/>
+            <img src={p6} className="hide"/>
         </div>
     )
 }

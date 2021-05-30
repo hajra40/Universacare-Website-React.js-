@@ -70,14 +70,17 @@ const Services = () => {
 		perMove: 1,
         arrows: false
     };
+
+
     return (
         <div>
             <div className="lg">
                 <div className="services">
-                                <div className='service__intro'>
-                                    <h1>Your peace of mind is<br /><span>our number one priority.</span></h1>
-                                    <p>UniversaCare offers a range of services for in-home care.  We are your partners in care, and work with you to come up with a plan of action. </p>
-                                </div>
+                    <div className='service__intro'>
+                          <h1>Your peace of mind is<br /><span>our number one priority.</span></h1>
+                          <p>UniversaCare offers a range of services for in-home care.  We are your partners in care, and work with you to come up with a plan of action. </p>
+                    </div>
+
                     {
                         slides.map((slide,index) => {
                             return (
@@ -86,6 +89,9 @@ const Services = () => {
                                     <div className="service__content">
                                         <h1>{slide.h1}</h1>
                                         <p>{slide.p}</p>
+                                    </div>
+                                    <div className="arrow">
+                                        <i class="fas fa-chevron-right"></i>    
                                     </div>
                                 </div>
                             )
@@ -97,6 +103,7 @@ const Services = () => {
                         <div className="contact__content">
                             <h1>Do you need support?</h1>
                             <p>We glad to help!</p>
+                            <button className="btn">CONTACT US</button>
                         </div>
                     </div>
                 </div>
@@ -114,9 +121,12 @@ const Services = () => {
 						<SplideSlide options={{width: 227, height: 345}} key={ slide.src }>
                             <div className={slide.class}>
                                 <img src={ slide.img } alt='service' />
-                                <div className="contact__content">
+                                <div className="service__content">
                                     <h1>{slide.h1}</h1>
                                     <p>{slide.p}</p>
+                                </div>
+                                <div className="arrow">
+                                    <i class="fas fa-chevron-right"></i>    
                                 </div>
                             </div>	
 						</SplideSlide>
@@ -129,6 +139,7 @@ const Services = () => {
                         <h1>Do you need support?</h1>
                         <p>We glad to help!</p>
                     </div>
+                    <button className="btn">CONTACT US</button>
                 </div>
             </div>
         </div>

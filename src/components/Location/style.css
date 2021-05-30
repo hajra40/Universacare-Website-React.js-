@@ -7,10 +7,7 @@
     font-weight: 600;
     font-size: 16px;
     line-height: 20px;
-    /* identical to box height */
-
     letter-spacing: 0.12em;
-
     color: #2B2D42;
 }
 
@@ -21,4 +18,21 @@
     justify-content: center;
     align-items: center;
     padding: 1.4rem 0rem;
+}
+
+.fa-map-marker-alt {
+    color: #2B2D42;
+    font-size: 1.5rem;
+}
+
+@media (max-width: 700px) {
+    .location > h1 {
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 17px;
+    }
+
+    .location {
+        padding: 1.4rem 0.8rem;
+    }
 }

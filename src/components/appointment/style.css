@@ -14,6 +14,8 @@
     justify-content: space-evenly;
     align-items: center;
     background: #395FA9;
+    padding: 1.5rem;
+    position: relative;
 }
 
 .request__img {
@@ -34,9 +36,29 @@
     color: #FFFFFF;
 }
 
+.request > .arrow {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    right: 30px;
+    bottom: -20px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px #E5E5E5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+
+}
+
 .request__img > img {
     width: 100%;
     height: 100%;
+}
+
+.request__content> .btn {
+    background: #FFFFFF;
+    color: #395FA9;
 }
 
 @media (max-width: 990px) {
@@ -53,6 +75,11 @@
         width: 180px;
         height: 180px;
     }
+
+    .hide {
+        display: none;
+    }
+    
 
 }
 
