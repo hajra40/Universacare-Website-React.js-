@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Universacare-Website-React.js-/static/css/main.b609a1ae.chunk.css",
-    "main.js": "/Universacare-Website-React.js-/static/js/main.49b5392c.chunk.js",
-    "main.js.map": "/Universacare-Website-React.js-/static/js/main.49b5392c.chunk.js.map",
-    "runtime-main.js": "/Universacare-Website-React.js-/static/js/runtime-main.caa15891.js",
-    "runtime-main.js.map": "/Universacare-Website-React.js-/static/js/runtime-main.caa15891.js.map",
+    "main.css": "/Universacare-Website-React.js-/static/css/main.bcd000db.chunk.css",
+    "main.js": "/Universacare-Website-React.js-/static/js/main.1aca6390.chunk.js",
+    "main.js.map": "/Universacare-Website-React.js-/static/js/main.1aca6390.chunk.js.map",
+    "runtime-main.js": "/Universacare-Website-React.js-/static/js/runtime-main.c76030c9.js",
+    "runtime-main.js.map": "/Universacare-Website-React.js-/static/js/runtime-main.c76030c9.js.map",
     "static/css/2.dc319015.chunk.css": "/Universacare-Website-React.js-/static/css/2.dc319015.chunk.css",
-    "static/js/2.a9548ca8.chunk.js": "/Universacare-Website-React.js-/static/js/2.a9548ca8.chunk.js",
-    "static/js/2.a9548ca8.chunk.js.map": "/Universacare-Website-React.js-/static/js/2.a9548ca8.chunk.js.map",
-    "static/js/3.93709b6e.chunk.js": "/Universacare-Website-React.js-/static/js/3.93709b6e.chunk.js",
-    "static/js/3.93709b6e.chunk.js.map": "/Universacare-Website-React.js-/static/js/3.93709b6e.chunk.js.map",
+    "static/js/2.eb8f6b28.chunk.js": "/Universacare-Website-React.js-/static/js/2.eb8f6b28.chunk.js",
+    "static/js/2.eb8f6b28.chunk.js.map": "/Universacare-Website-React.js-/static/js/2.eb8f6b28.chunk.js.map",
+    "static/js/3.a125e189.chunk.js": "/Universacare-Website-React.js-/static/js/3.a125e189.chunk.js",
+    "static/js/3.a125e189.chunk.js.map": "/Universacare-Website-React.js-/static/js/3.a125e189.chunk.js.map",
     "index.html": "/Universacare-Website-React.js-/index.html",
     "static/css/2.dc319015.chunk.css.map": "/Universacare-Website-React.js-/static/css/2.dc319015.chunk.css.map",
-    "static/css/main.b609a1ae.chunk.css.map": "/Universacare-Website-React.js-/static/css/main.b609a1ae.chunk.css.map",
-    "static/js/2.a9548ca8.chunk.js.LICENSE.txt": "/Universacare-Website-React.js-/static/js/2.a9548ca8.chunk.js.LICENSE.txt",
+    "static/css/main.bcd000db.chunk.css.map": "/Universacare-Website-React.js-/static/css/main.bcd000db.chunk.css.map",
+    "static/js/2.eb8f6b28.chunk.js.LICENSE.txt": "/Universacare-Website-React.js-/static/js/2.eb8f6b28.chunk.js.LICENSE.txt",
     "static/media/CHAP.409eebf0.png": "/Universacare-Website-React.js-/static/media/CHAP.409eebf0.png",
     "static/media/UCLogo.534d6e9d.svg": "/Universacare-Website-React.js-/static/media/UCLogo.534d6e9d.svg",
     "static/media/c1.3c0f6f1d.svg": "/Universacare-Website-React.js-/static/media/c1.3c0f6f1d.svg",
@@ -35,10 +35,10 @@
     "static/media/v2.1fee961f.svg": "/Universacare-Website-React.js-/static/media/v2.1fee961f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.caa15891.js",
+    "static/js/runtime-main.c76030c9.js",
     "static/css/2.dc319015.chunk.css",
-    "static/js/2.a9548ca8.chunk.js",
-    "static/css/main.b609a1ae.chunk.css",
-    "static/js/main.49b5392c.chunk.js"
+    "static/js/2.eb8f6b28.chunk.js",
+    "static/css/main.bcd000db.chunk.css",
+    "static/js/main.1aca6390.chunk.js"
   ]
 }
