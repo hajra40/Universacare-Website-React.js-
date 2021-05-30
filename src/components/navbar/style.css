@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
 
+* {
+    box-sizing: border-box;
+}
+
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -8,7 +12,6 @@
     max-width: 1280px;
     padding: auto auto;
     margin: 0rem auto;
-    /* overflow: hidden; */
 }
 
 .logo {
@@ -77,6 +80,48 @@ li:hover {
     justify-content: space-evenly;
 }
 
+.nav {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    background: #2B2D42;
+    color: #D7D4E2;
+    z-index: 1000000;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav > ul {
+    display: flex;
+    flex-direction: column;
+}
+
+.nav ul li {
+    padding: 1rem;
+    color: #D7D4E2;
+    border-right: none;
+}
+
+.nav ul li:hover {
+    cursor: pointer;
+}
+
+.sm__nav > .close {
+    display: none;
+}
+
+.fa-times {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
+
+
 @media (max-width: 1330px) {
     li {
         font-size: 14px;
@@ -105,7 +150,18 @@ li:hover {
     .logo {
         padding: 0 1rem;
     }
+
+    .nav.close {
+        display: none;
+    }
+
     .lg_nav {
         display: none;
     }
+
+    .phone > i ,
+    .phone > h1 > span {
+        color: #D7D4E2;
+    }
+    
 }
